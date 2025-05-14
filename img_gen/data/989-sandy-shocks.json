@@ -1,0 +1,13 @@
+{
+  "id": 989,
+  "name": "sandy-shocks",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/989.png",
+  "species": {
+    "name": "sandy-shocks",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/989/"
+  },
+  "capture_rate": 30,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

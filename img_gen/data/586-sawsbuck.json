@@ -1,0 +1,13 @@
+{
+  "id": 586,
+  "name": "sawsbuck",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/586.png",
+  "species": {
+    "name": "sawsbuck",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/586/"
+  },
+  "capture_rate": 75,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

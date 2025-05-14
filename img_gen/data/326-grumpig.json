@@ -1,0 +1,13 @@
+{
+  "id": 326,
+  "name": "grumpig",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/326.png",
+  "species": {
+    "name": "grumpig",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/326/"
+  },
+  "capture_rate": 60,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

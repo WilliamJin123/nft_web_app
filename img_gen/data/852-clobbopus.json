@@ -1,0 +1,13 @@
+{
+  "id": 852,
+  "name": "clobbopus",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/852.png",
+  "species": {
+    "name": "clobbopus",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/852/"
+  },
+  "capture_rate": 180,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

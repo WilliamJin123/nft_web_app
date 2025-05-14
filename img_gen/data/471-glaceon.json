@@ -1,0 +1,13 @@
+{
+  "id": 471,
+  "name": "glaceon",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/471.png",
+  "species": {
+    "name": "glaceon",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/471/"
+  },
+  "capture_rate": 45,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

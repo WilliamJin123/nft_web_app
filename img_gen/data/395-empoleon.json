@@ -1,0 +1,13 @@
+{
+  "id": 395,
+  "name": "empoleon",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/395.png",
+  "species": {
+    "name": "empoleon",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/395/"
+  },
+  "capture_rate": 45,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

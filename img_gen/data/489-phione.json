@@ -1,0 +1,13 @@
+{
+  "id": 489,
+  "name": "phione",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/489.png",
+  "species": {
+    "name": "phione",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/489/"
+  },
+  "capture_rate": 30,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": true
+}

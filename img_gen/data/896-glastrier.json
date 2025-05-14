@@ -1,0 +1,13 @@
+{
+  "id": 896,
+  "name": "glastrier",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/896.png",
+  "species": {
+    "name": "glastrier",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/896/"
+  },
+  "capture_rate": 3,
+  "is_baby": false,
+  "is_legendary": true,
+  "is_mythical": false
+}

@@ -1,0 +1,13 @@
+{
+  "id": 320,
+  "name": "wailmer",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/320.png",
+  "species": {
+    "name": "wailmer",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/320/"
+  },
+  "capture_rate": 125,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

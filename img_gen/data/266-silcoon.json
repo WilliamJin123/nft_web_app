@@ -1,0 +1,13 @@
+{
+  "id": 266,
+  "name": "silcoon",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/266.png",
+  "species": {
+    "name": "silcoon",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/266/"
+  },
+  "capture_rate": 120,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

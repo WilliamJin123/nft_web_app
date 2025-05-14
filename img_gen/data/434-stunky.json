@@ -1,0 +1,13 @@
+{
+  "id": 434,
+  "name": "stunky",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/434.png",
+  "species": {
+    "name": "stunky",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/434/"
+  },
+  "capture_rate": 225,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

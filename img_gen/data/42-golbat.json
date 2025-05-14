@@ -1,0 +1,13 @@
+{
+  "id": 42,
+  "name": "golbat",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/42.png",
+  "species": {
+    "name": "golbat",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/42/"
+  },
+  "capture_rate": 90,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

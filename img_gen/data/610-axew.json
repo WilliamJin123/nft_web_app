@@ -1,0 +1,13 @@
+{
+  "id": 610,
+  "name": "axew",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/610.png",
+  "species": {
+    "name": "axew",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/610/"
+  },
+  "capture_rate": 75,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

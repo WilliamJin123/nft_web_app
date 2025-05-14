@@ -1,0 +1,13 @@
+{
+  "id": 761,
+  "name": "bounsweet",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/761.png",
+  "species": {
+    "name": "bounsweet",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/761/"
+  },
+  "capture_rate": 235,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

@@ -1,0 +1,13 @@
+{
+  "id": 622,
+  "name": "golett",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/622.png",
+  "species": {
+    "name": "golett",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/622/"
+  },
+  "capture_rate": 190,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

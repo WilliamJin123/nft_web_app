@@ -1,0 +1,13 @@
+{
+  "id": 589,
+  "name": "escavalier",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/589.png",
+  "species": {
+    "name": "escavalier",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/589/"
+  },
+  "capture_rate": 75,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

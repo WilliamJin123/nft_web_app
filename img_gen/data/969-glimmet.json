@@ -1,0 +1,13 @@
+{
+  "id": 969,
+  "name": "glimmet",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/969.png",
+  "species": {
+    "name": "glimmet",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/969/"
+  },
+  "capture_rate": 70,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

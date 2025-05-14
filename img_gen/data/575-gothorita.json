@@ -1,0 +1,13 @@
+{
+  "id": 575,
+  "name": "gothorita",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/575.png",
+  "species": {
+    "name": "gothorita",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/575/"
+  },
+  "capture_rate": 100,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

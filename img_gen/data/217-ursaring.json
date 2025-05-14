@@ -1,0 +1,13 @@
+{
+  "id": 217,
+  "name": "ursaring",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/217.png",
+  "species": {
+    "name": "ursaring",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/217/"
+  },
+  "capture_rate": 60,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

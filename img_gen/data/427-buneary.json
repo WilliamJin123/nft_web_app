@@ -1,0 +1,13 @@
+{
+  "id": 427,
+  "name": "buneary",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/427.png",
+  "species": {
+    "name": "buneary",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/427/"
+  },
+  "capture_rate": 190,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

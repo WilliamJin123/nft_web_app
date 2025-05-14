@@ -1,0 +1,13 @@
+{
+  "id": 973,
+  "name": "flamigo",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/973.png",
+  "species": {
+    "name": "flamigo",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/973/"
+  },
+  "capture_rate": 100,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

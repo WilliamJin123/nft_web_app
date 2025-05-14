@@ -1,0 +1,13 @@
+{
+  "id": 812,
+  "name": "rillaboom",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/812.png",
+  "species": {
+    "name": "rillaboom",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/812/"
+  },
+  "capture_rate": 45,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

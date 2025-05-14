@@ -1,0 +1,13 @@
+{
+  "id": 183,
+  "name": "marill",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/183.png",
+  "species": {
+    "name": "marill",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/183/"
+  },
+  "capture_rate": 190,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

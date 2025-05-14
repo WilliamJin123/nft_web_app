@@ -1,0 +1,13 @@
+{
+  "id": 173,
+  "name": "cleffa",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/173.png",
+  "species": {
+    "name": "cleffa",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/173/"
+  },
+  "capture_rate": 150,
+  "is_baby": true,
+  "is_legendary": false,
+  "is_mythical": false
+}

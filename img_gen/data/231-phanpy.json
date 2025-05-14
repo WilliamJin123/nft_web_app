@@ -1,0 +1,13 @@
+{
+  "id": 231,
+  "name": "phanpy",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/231.png",
+  "species": {
+    "name": "phanpy",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/231/"
+  },
+  "capture_rate": 120,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

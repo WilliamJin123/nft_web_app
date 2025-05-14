@@ -1,0 +1,13 @@
+{
+  "id": 669,
+  "name": "flabebe",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/669.png",
+  "species": {
+    "name": "flabebe",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/669/"
+  },
+  "capture_rate": 225,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

@@ -1,0 +1,13 @@
+{
+  "id": 316,
+  "name": "gulpin",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/316.png",
+  "species": {
+    "name": "gulpin",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/316/"
+  },
+  "capture_rate": 225,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

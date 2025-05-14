@@ -1,0 +1,13 @@
+{
+  "id": 980,
+  "name": "clodsire",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/980.png",
+  "species": {
+    "name": "clodsire",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/980/"
+  },
+  "capture_rate": 90,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

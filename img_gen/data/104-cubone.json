@@ -1,0 +1,13 @@
+{
+  "id": 104,
+  "name": "cubone",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/104.png",
+  "species": {
+    "name": "cubone",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/104/"
+  },
+  "capture_rate": 190,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

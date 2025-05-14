@@ -1,0 +1,13 @@
+{
+  "id": 368,
+  "name": "gorebyss",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/368.png",
+  "species": {
+    "name": "gorebyss",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/368/"
+  },
+  "capture_rate": 60,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

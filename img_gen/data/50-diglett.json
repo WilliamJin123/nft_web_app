@@ -1,0 +1,13 @@
+{
+  "id": 50,
+  "name": "diglett",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/50.png",
+  "species": {
+    "name": "diglett",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/50/"
+  },
+  "capture_rate": 255,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

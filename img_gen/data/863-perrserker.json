@@ -1,0 +1,13 @@
+{
+  "id": 863,
+  "name": "perrserker",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/863.png",
+  "species": {
+    "name": "perrserker",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/863/"
+  },
+  "capture_rate": 90,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

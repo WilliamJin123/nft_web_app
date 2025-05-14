@@ -1,0 +1,13 @@
+{
+  "id": 805,
+  "name": "stakataka",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/805.png",
+  "species": {
+    "name": "stakataka",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/805/"
+  },
+  "capture_rate": 30,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

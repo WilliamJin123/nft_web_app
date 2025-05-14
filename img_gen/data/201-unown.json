@@ -1,0 +1,13 @@
+{
+  "id": 201,
+  "name": "unown",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/201.png",
+  "species": {
+    "name": "unown",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/201/"
+  },
+  "capture_rate": 225,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

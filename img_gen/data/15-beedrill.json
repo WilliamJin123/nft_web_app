@@ -1,0 +1,13 @@
+{
+  "id": 15,
+  "name": "beedrill",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png",
+  "species": {
+    "name": "beedrill",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/15/"
+  },
+  "capture_rate": 45,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

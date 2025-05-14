@@ -1,0 +1,13 @@
+{
+  "id": 399,
+  "name": "bidoof",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/399.png",
+  "species": {
+    "name": "bidoof",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/399/"
+  },
+  "capture_rate": 255,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

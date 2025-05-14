@@ -1,0 +1,13 @@
+{
+  "id": 956,
+  "name": "espathra",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/956.png",
+  "species": {
+    "name": "espathra",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/956/"
+  },
+  "capture_rate": 60,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

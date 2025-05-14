@@ -1,0 +1,13 @@
+{
+  "id": 631,
+  "name": "heatmor",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/631.png",
+  "species": {
+    "name": "heatmor",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/631/"
+  },
+  "capture_rate": 90,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

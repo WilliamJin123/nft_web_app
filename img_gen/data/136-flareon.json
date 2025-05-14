@@ -1,0 +1,13 @@
+{
+  "id": 136,
+  "name": "flareon",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png",
+  "species": {
+    "name": "flareon",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/136/"
+  },
+  "capture_rate": 45,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

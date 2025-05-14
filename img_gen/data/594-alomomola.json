@@ -1,0 +1,13 @@
+{
+  "id": 594,
+  "name": "alomomola",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/594.png",
+  "species": {
+    "name": "alomomola",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/594/"
+  },
+  "capture_rate": 75,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

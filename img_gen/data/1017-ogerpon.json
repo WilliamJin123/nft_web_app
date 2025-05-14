@@ -1,0 +1,13 @@
+{
+  "id": 1017,
+  "name": "ogerpon",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1017.png",
+  "species": {
+    "name": "ogerpon",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/1017/"
+  },
+  "capture_rate": 5,
+  "is_baby": false,
+  "is_legendary": true,
+  "is_mythical": false
+}

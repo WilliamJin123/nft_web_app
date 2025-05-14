@@ -1,0 +1,13 @@
+{
+  "id": 117,
+  "name": "seadra",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png",
+  "species": {
+    "name": "seadra",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/117/"
+  },
+  "capture_rate": 75,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

@@ -1,0 +1,13 @@
+{
+  "id": 10257,
+  "name": "maushold-family-of-three",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10257.png",
+  "species": {
+    "name": "maushold",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/925/"
+  },
+  "capture_rate": 75,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

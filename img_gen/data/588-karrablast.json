@@ -1,0 +1,13 @@
+{
+  "id": 588,
+  "name": "karrablast",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/588.png",
+  "species": {
+    "name": "karrablast",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/588/"
+  },
+  "capture_rate": 200,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

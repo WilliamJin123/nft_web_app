@@ -1,0 +1,13 @@
+{
+  "id": 10254,
+  "name": "oinkologne-female",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10254.png",
+  "species": {
+    "name": "oinkologne",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/916/"
+  },
+  "capture_rate": 100,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

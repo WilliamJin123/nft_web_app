@@ -1,0 +1,13 @@
+{
+  "id": 382,
+  "name": "kyogre",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/382.png",
+  "species": {
+    "name": "kyogre",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/382/"
+  },
+  "capture_rate": 3,
+  "is_baby": false,
+  "is_legendary": true,
+  "is_mythical": false
+}

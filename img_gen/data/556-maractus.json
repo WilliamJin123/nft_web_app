@@ -1,0 +1,13 @@
+{
+  "id": 556,
+  "name": "maractus",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/556.png",
+  "species": {
+    "name": "maractus",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/556/"
+  },
+  "capture_rate": 255,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

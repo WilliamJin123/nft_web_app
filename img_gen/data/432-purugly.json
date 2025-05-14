@@ -1,0 +1,13 @@
+{
+  "id": 432,
+  "name": "purugly",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/432.png",
+  "species": {
+    "name": "purugly",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/432/"
+  },
+  "capture_rate": 75,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

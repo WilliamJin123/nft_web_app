@@ -1,0 +1,13 @@
+{
+  "id": 789,
+  "name": "cosmog",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/789.png",
+  "species": {
+    "name": "cosmog",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/789/"
+  },
+  "capture_rate": 45,
+  "is_baby": false,
+  "is_legendary": true,
+  "is_mythical": false
+}

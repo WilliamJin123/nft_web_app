@@ -1,0 +1,13 @@
+{
+  "id": 216,
+  "name": "teddiursa",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/216.png",
+  "species": {
+    "name": "teddiursa",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/216/"
+  },
+  "capture_rate": 120,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

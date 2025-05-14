@@ -1,0 +1,13 @@
+{
+  "id": 140,
+  "name": "kabuto",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png",
+  "species": {
+    "name": "kabuto",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/140/"
+  },
+  "capture_rate": 45,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

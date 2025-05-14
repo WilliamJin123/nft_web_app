@@ -1,0 +1,13 @@
+{
+  "id": 307,
+  "name": "meditite",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/307.png",
+  "species": {
+    "name": "meditite",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/307/"
+  },
+  "capture_rate": 180,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

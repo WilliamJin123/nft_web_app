@@ -1,0 +1,13 @@
+{
+  "id": 447,
+  "name": "riolu",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/447.png",
+  "species": {
+    "name": "riolu",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/447/"
+  },
+  "capture_rate": 75,
+  "is_baby": true,
+  "is_legendary": false,
+  "is_mythical": false
+}

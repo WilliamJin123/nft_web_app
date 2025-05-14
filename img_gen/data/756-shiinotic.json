@@ -1,0 +1,13 @@
+{
+  "id": 756,
+  "name": "shiinotic",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/756.png",
+  "species": {
+    "name": "shiinotic",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/756/"
+  },
+  "capture_rate": 75,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

@@ -1,0 +1,13 @@
+{
+  "id": 717,
+  "name": "yveltal",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/717.png",
+  "species": {
+    "name": "yveltal",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/717/"
+  },
+  "capture_rate": 45,
+  "is_baby": false,
+  "is_legendary": true,
+  "is_mythical": false
+}

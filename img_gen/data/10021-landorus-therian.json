@@ -1,0 +1,13 @@
+{
+  "id": 10021,
+  "name": "landorus-therian",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10021.png",
+  "species": {
+    "name": "landorus",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/645/"
+  },
+  "capture_rate": 3,
+  "is_baby": false,
+  "is_legendary": true,
+  "is_mythical": false
+}

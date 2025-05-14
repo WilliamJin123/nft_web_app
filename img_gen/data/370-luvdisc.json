@@ -1,0 +1,13 @@
+{
+  "id": 370,
+  "name": "luvdisc",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/370.png",
+  "species": {
+    "name": "luvdisc",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/370/"
+  },
+  "capture_rate": 225,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

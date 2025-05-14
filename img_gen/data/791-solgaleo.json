@@ -1,0 +1,13 @@
+{
+  "id": 791,
+  "name": "solgaleo",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/791.png",
+  "species": {
+    "name": "solgaleo",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/791/"
+  },
+  "capture_rate": 45,
+  "is_baby": false,
+  "is_legendary": true,
+  "is_mythical": false
+}

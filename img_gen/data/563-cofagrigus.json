@@ -1,0 +1,13 @@
+{
+  "id": 563,
+  "name": "cofagrigus",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/563.png",
+  "species": {
+    "name": "cofagrigus",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/563/"
+  },
+  "capture_rate": 90,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

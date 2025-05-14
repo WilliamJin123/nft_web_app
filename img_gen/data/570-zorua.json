@@ -1,0 +1,13 @@
+{
+  "id": 570,
+  "name": "zorua",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/570.png",
+  "species": {
+    "name": "zorua",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/570/"
+  },
+  "capture_rate": 75,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

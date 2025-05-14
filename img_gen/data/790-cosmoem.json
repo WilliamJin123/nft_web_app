@@ -1,0 +1,13 @@
+{
+  "id": 790,
+  "name": "cosmoem",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/790.png",
+  "species": {
+    "name": "cosmoem",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/790/"
+  },
+  "capture_rate": 45,
+  "is_baby": false,
+  "is_legendary": true,
+  "is_mythical": false
+}

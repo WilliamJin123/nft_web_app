@@ -1,0 +1,13 @@
+{
+  "id": 56,
+  "name": "mankey",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/56.png",
+  "species": {
+    "name": "mankey",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/56/"
+  },
+  "capture_rate": 190,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

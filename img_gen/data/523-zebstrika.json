@@ -1,0 +1,13 @@
+{
+  "id": 523,
+  "name": "zebstrika",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/523.png",
+  "species": {
+    "name": "zebstrika",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/523/"
+  },
+  "capture_rate": 75,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

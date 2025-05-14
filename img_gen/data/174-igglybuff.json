@@ -1,0 +1,13 @@
+{
+  "id": 174,
+  "name": "igglybuff",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/174.png",
+  "species": {
+    "name": "igglybuff",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/174/"
+  },
+  "capture_rate": 170,
+  "is_baby": true,
+  "is_legendary": false,
+  "is_mythical": false
+}

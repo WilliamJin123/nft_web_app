@@ -1,0 +1,13 @@
+{
+  "id": 134,
+  "name": "vaporeon",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png",
+  "species": {
+    "name": "vaporeon",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/134/"
+  },
+  "capture_rate": 45,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

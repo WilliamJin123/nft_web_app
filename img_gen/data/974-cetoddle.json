@@ -1,0 +1,13 @@
+{
+  "id": 974,
+  "name": "cetoddle",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/974.png",
+  "species": {
+    "name": "cetoddle",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/974/"
+  },
+  "capture_rate": 150,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

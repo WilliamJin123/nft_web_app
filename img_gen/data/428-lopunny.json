@@ -1,0 +1,13 @@
+{
+  "id": 428,
+  "name": "lopunny",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/428.png",
+  "species": {
+    "name": "lopunny",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/428/"
+  },
+  "capture_rate": 60,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

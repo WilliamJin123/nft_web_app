@@ -1,0 +1,13 @@
+{
+  "id": 337,
+  "name": "lunatone",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/337.png",
+  "species": {
+    "name": "lunatone",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/337/"
+  },
+  "capture_rate": 45,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

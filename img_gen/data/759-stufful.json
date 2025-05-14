@@ -1,0 +1,13 @@
+{
+  "id": 759,
+  "name": "stufful",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/759.png",
+  "species": {
+    "name": "stufful",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/759/"
+  },
+  "capture_rate": 140,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

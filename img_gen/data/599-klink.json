@@ -1,0 +1,13 @@
+{
+  "id": 599,
+  "name": "klink",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/599.png",
+  "species": {
+    "name": "klink",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/599/"
+  },
+  "capture_rate": 130,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

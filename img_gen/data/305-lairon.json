@@ -1,0 +1,13 @@
+{
+  "id": 305,
+  "name": "lairon",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/305.png",
+  "species": {
+    "name": "lairon",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/305/"
+  },
+  "capture_rate": 90,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

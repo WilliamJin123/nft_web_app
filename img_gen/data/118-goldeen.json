@@ -1,0 +1,13 @@
+{
+  "id": 118,
+  "name": "goldeen",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png",
+  "species": {
+    "name": "goldeen",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/118/"
+  },
+  "capture_rate": 225,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

@@ -1,0 +1,13 @@
+{
+  "id": 616,
+  "name": "shelmet",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/616.png",
+  "species": {
+    "name": "shelmet",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/616/"
+  },
+  "capture_rate": 200,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

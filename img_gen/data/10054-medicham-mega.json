@@ -1,0 +1,13 @@
+{
+  "id": 10054,
+  "name": "medicham-mega",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10054.png",
+  "species": {
+    "name": "medicham",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/308/"
+  },
+  "capture_rate": 90,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

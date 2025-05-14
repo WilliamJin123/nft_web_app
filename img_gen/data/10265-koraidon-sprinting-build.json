@@ -1,0 +1,13 @@
+{
+  "id": 10265,
+  "name": "koraidon-sprinting-build",
+  "sprite": null,
+  "species": {
+    "name": "koraidon",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/1007/"
+  },
+  "capture_rate": 3,
+  "is_baby": false,
+  "is_legendary": true,
+  "is_mythical": false
+}

@@ -1,0 +1,13 @@
+{
+  "id": 750,
+  "name": "mudsdale",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/750.png",
+  "species": {
+    "name": "mudsdale",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/750/"
+  },
+  "capture_rate": 60,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

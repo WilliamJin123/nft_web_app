@@ -1,0 +1,13 @@
+{
+  "id": 219,
+  "name": "magcargo",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/219.png",
+  "species": {
+    "name": "magcargo",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/219/"
+  },
+  "capture_rate": 75,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

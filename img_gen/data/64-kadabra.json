@@ -1,0 +1,13 @@
+{
+  "id": 64,
+  "name": "kadabra",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/64.png",
+  "species": {
+    "name": "kadabra",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/64/"
+  },
+  "capture_rate": 100,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

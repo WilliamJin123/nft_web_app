@@ -1,0 +1,13 @@
+{
+  "id": 455,
+  "name": "carnivine",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/455.png",
+  "species": {
+    "name": "carnivine",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/455/"
+  },
+  "capture_rate": 200,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

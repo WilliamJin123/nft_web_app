@@ -1,0 +1,13 @@
+{
+  "id": 407,
+  "name": "roserade",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/407.png",
+  "species": {
+    "name": "roserade",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/407/"
+  },
+  "capture_rate": 75,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

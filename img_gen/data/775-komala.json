@@ -1,0 +1,13 @@
+{
+  "id": 775,
+  "name": "komala",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/775.png",
+  "species": {
+    "name": "komala",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/775/"
+  },
+  "capture_rate": 45,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

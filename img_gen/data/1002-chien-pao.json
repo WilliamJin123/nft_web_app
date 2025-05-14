@@ -1,0 +1,13 @@
+{
+  "id": 1002,
+  "name": "chien-pao",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1002.png",
+  "species": {
+    "name": "chien-pao",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/1002/"
+  },
+  "capture_rate": 6,
+  "is_baby": false,
+  "is_legendary": true,
+  "is_mythical": false
+}

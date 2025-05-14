@@ -1,0 +1,13 @@
+{
+  "id": 374,
+  "name": "beldum",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/374.png",
+  "species": {
+    "name": "beldum",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/374/"
+  },
+  "capture_rate": 3,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

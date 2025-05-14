@@ -1,0 +1,13 @@
+{
+  "id": 350,
+  "name": "milotic",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/350.png",
+  "species": {
+    "name": "milotic",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/350/"
+  },
+  "capture_rate": 60,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

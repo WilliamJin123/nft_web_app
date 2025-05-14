@@ -1,0 +1,13 @@
+{
+  "id": 304,
+  "name": "aron",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/304.png",
+  "species": {
+    "name": "aron",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/304/"
+  },
+  "capture_rate": 180,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

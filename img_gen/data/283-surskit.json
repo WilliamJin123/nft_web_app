@@ -1,0 +1,13 @@
+{
+  "id": 283,
+  "name": "surskit",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/283.png",
+  "species": {
+    "name": "surskit",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/283/"
+  },
+  "capture_rate": 200,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

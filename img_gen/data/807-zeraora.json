@@ -1,0 +1,13 @@
+{
+  "id": 807,
+  "name": "zeraora",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/807.png",
+  "species": {
+    "name": "zeraora",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/807/"
+  },
+  "capture_rate": 3,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": true
+}

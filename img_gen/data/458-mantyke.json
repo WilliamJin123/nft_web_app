@@ -1,0 +1,13 @@
+{
+  "id": 458,
+  "name": "mantyke",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/458.png",
+  "species": {
+    "name": "mantyke",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/458/"
+  },
+  "capture_rate": 25,
+  "is_baby": true,
+  "is_legendary": false,
+  "is_mythical": false
+}

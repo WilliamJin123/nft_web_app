@@ -1,0 +1,13 @@
+{
+  "id": 583,
+  "name": "vanillish",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/583.png",
+  "species": {
+    "name": "vanillish",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/583/"
+  },
+  "capture_rate": 120,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

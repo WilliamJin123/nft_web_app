@@ -1,0 +1,13 @@
+{
+  "id": 660,
+  "name": "diggersby",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/660.png",
+  "species": {
+    "name": "diggersby",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/660/"
+  },
+  "capture_rate": 127,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

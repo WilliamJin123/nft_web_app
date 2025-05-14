@@ -1,0 +1,13 @@
+{
+  "id": 272,
+  "name": "ludicolo",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/272.png",
+  "species": {
+    "name": "ludicolo",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/272/"
+  },
+  "capture_rate": 45,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

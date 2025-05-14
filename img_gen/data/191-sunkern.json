@@ -1,0 +1,13 @@
+{
+  "id": 191,
+  "name": "sunkern",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/191.png",
+  "species": {
+    "name": "sunkern",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/191/"
+  },
+  "capture_rate": 235,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

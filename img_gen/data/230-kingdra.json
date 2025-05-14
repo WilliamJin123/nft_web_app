@@ -1,0 +1,13 @@
+{
+  "id": 230,
+  "name": "kingdra",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/230.png",
+  "species": {
+    "name": "kingdra",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/230/"
+  },
+  "capture_rate": 45,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

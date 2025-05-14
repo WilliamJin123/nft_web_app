@@ -1,0 +1,13 @@
+{
+  "id": 252,
+  "name": "treecko",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/252.png",
+  "species": {
+    "name": "treecko",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/252/"
+  },
+  "capture_rate": 45,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

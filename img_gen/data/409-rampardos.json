@@ -1,0 +1,13 @@
+{
+  "id": 409,
+  "name": "rampardos",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/409.png",
+  "species": {
+    "name": "rampardos",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/409/"
+  },
+  "capture_rate": 45,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

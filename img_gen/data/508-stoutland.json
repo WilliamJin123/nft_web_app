@@ -1,0 +1,13 @@
+{
+  "id": 508,
+  "name": "stoutland",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/508.png",
+  "species": {
+    "name": "stoutland",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/508/"
+  },
+  "capture_rate": 45,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

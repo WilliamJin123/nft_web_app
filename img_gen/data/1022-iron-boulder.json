@@ -1,0 +1,13 @@
+{
+  "id": 1022,
+  "name": "iron-boulder",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1022.png",
+  "species": {
+    "name": "iron-boulder",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/1022/"
+  },
+  "capture_rate": 10,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

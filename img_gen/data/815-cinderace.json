@@ -1,0 +1,13 @@
+{
+  "id": 815,
+  "name": "cinderace",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/815.png",
+  "species": {
+    "name": "cinderace",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/815/"
+  },
+  "capture_rate": 45,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

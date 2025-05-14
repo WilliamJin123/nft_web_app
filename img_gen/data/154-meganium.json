@@ -1,0 +1,13 @@
+{
+  "id": 154,
+  "name": "meganium",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/154.png",
+  "species": {
+    "name": "meganium",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/154/"
+  },
+  "capture_rate": 45,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

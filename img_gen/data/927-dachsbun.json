@@ -1,0 +1,13 @@
+{
+  "id": 927,
+  "name": "dachsbun",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/927.png",
+  "species": {
+    "name": "dachsbun",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/927/"
+  },
+  "capture_rate": 90,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

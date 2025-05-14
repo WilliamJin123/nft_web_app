@@ -1,0 +1,13 @@
+{
+  "id": 178,
+  "name": "xatu",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/178.png",
+  "species": {
+    "name": "xatu",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/178/"
+  },
+  "capture_rate": 75,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

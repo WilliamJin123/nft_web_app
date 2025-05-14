@@ -1,0 +1,13 @@
+{
+  "id": 236,
+  "name": "tyrogue",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/236.png",
+  "species": {
+    "name": "tyrogue",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/236/"
+  },
+  "capture_rate": 75,
+  "is_baby": true,
+  "is_legendary": false,
+  "is_mythical": false
+}

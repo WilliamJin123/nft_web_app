@@ -1,0 +1,13 @@
+{
+  "id": 243,
+  "name": "raikou",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/243.png",
+  "species": {
+    "name": "raikou",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/243/"
+  },
+  "capture_rate": 3,
+  "is_baby": false,
+  "is_legendary": true,
+  "is_mythical": false
+}

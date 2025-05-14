@@ -1,0 +1,13 @@
+{
+  "id": 10262,
+  "name": "squawkabilly-white-plumage",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10262.png",
+  "species": {
+    "name": "squawkabilly",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/931/"
+  },
+  "capture_rate": 190,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

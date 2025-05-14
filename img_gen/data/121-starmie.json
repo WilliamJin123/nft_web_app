@@ -1,0 +1,13 @@
+{
+  "id": 121,
+  "name": "starmie",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png",
+  "species": {
+    "name": "starmie",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/121/"
+  },
+  "capture_rate": 60,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

@@ -1,0 +1,13 @@
+{
+  "id": 132,
+  "name": "ditto",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png",
+  "species": {
+    "name": "ditto",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/132/"
+  },
+  "capture_rate": 35,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

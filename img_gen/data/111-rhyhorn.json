@@ -1,0 +1,13 @@
+{
+  "id": 111,
+  "name": "rhyhorn",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/111.png",
+  "species": {
+    "name": "rhyhorn",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/111/"
+  },
+  "capture_rate": 120,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

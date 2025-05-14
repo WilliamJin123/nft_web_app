@@ -1,0 +1,13 @@
+{
+  "id": 107,
+  "name": "hitmonchan",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png",
+  "species": {
+    "name": "hitmonchan",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/107/"
+  },
+  "capture_rate": 45,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

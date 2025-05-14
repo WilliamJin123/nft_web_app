@@ -1,0 +1,13 @@
+{
+  "id": 235,
+  "name": "smeargle",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/235.png",
+  "species": {
+    "name": "smeargle",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/235/"
+  },
+  "capture_rate": 45,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

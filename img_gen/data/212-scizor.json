@@ -1,0 +1,13 @@
+{
+  "id": 212,
+  "name": "scizor",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/212.png",
+  "species": {
+    "name": "scizor",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/212/"
+  },
+  "capture_rate": 25,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

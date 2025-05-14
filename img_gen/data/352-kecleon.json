@@ -1,0 +1,13 @@
+{
+  "id": 352,
+  "name": "kecleon",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/352.png",
+  "species": {
+    "name": "kecleon",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/352/"
+  },
+  "capture_rate": 200,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

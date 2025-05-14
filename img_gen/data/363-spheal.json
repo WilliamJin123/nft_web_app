@@ -1,0 +1,13 @@
+{
+  "id": 363,
+  "name": "spheal",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/363.png",
+  "species": {
+    "name": "spheal",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/363/"
+  },
+  "capture_rate": 255,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

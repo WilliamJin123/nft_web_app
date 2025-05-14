@@ -1,0 +1,13 @@
+{
+  "id": 10248,
+  "name": "basculegion-female",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10248.png",
+  "species": {
+    "name": "basculegion",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/902/"
+  },
+  "capture_rate": 135,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

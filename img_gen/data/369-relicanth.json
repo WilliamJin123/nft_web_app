@@ -1,0 +1,13 @@
+{
+  "id": 369,
+  "name": "relicanth",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/369.png",
+  "species": {
+    "name": "relicanth",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/369/"
+  },
+  "capture_rate": 25,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

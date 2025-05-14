@@ -1,0 +1,13 @@
+{
+  "id": 439,
+  "name": "mime-jr",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/439.png",
+  "species": {
+    "name": "mime-jr",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/439/"
+  },
+  "capture_rate": 145,
+  "is_baby": true,
+  "is_legendary": false,
+  "is_mythical": false
+}

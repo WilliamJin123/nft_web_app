@@ -1,0 +1,13 @@
+{
+  "id": 163,
+  "name": "hoothoot",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/163.png",
+  "species": {
+    "name": "hoothoot",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/163/"
+  },
+  "capture_rate": 255,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

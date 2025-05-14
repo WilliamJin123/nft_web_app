@@ -1,0 +1,13 @@
+{
+  "id": 280,
+  "name": "ralts",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/280.png",
+  "species": {
+    "name": "ralts",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/280/"
+  },
+  "capture_rate": 235,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

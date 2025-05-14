@@ -1,0 +1,13 @@
+{
+  "id": 240,
+  "name": "magby",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/240.png",
+  "species": {
+    "name": "magby",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/240/"
+  },
+  "capture_rate": 45,
+  "is_baby": true,
+  "is_legendary": false,
+  "is_mythical": false
+}

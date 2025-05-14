@@ -1,0 +1,13 @@
+{
+  "id": 88,
+  "name": "grimer",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/88.png",
+  "species": {
+    "name": "grimer",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/88/"
+  },
+  "capture_rate": 190,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

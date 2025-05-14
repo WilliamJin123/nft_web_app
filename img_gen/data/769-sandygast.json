@@ -1,0 +1,13 @@
+{
+  "id": 769,
+  "name": "sandygast",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/769.png",
+  "species": {
+    "name": "sandygast",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/769/"
+  },
+  "capture_rate": 140,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

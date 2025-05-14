@@ -1,0 +1,13 @@
+{
+  "id": 830,
+  "name": "eldegoss",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/830.png",
+  "species": {
+    "name": "eldegoss",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/830/"
+  },
+  "capture_rate": 75,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

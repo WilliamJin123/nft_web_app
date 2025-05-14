@@ -1,0 +1,13 @@
+{
+  "id": 10191,
+  "name": "urshifu-rapid-strike",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10191.png",
+  "species": {
+    "name": "urshifu",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/892/"
+  },
+  "capture_rate": 3,
+  "is_baby": false,
+  "is_legendary": true,
+  "is_mythical": false
+}

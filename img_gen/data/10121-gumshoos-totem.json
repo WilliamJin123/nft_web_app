@@ -1,0 +1,13 @@
+{
+  "id": 10121,
+  "name": "gumshoos-totem",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10121.png",
+  "species": {
+    "name": "gumshoos",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/735/"
+  },
+  "capture_rate": 127,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

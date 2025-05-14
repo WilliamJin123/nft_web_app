@@ -1,0 +1,13 @@
+{
+  "id": 950,
+  "name": "klawf",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/950.png",
+  "species": {
+    "name": "klawf",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/950/"
+  },
+  "capture_rate": 120,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

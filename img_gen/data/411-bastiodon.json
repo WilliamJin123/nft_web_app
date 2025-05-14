@@ -1,0 +1,13 @@
+{
+  "id": 411,
+  "name": "bastiodon",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/411.png",
+  "species": {
+    "name": "bastiodon",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/411/"
+  },
+  "capture_rate": 45,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

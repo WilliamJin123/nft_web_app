@@ -1,0 +1,13 @@
+{
+  "id": 582,
+  "name": "vanillite",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/582.png",
+  "species": {
+    "name": "vanillite",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/582/"
+  },
+  "capture_rate": 255,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

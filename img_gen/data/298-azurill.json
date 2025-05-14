@@ -1,0 +1,13 @@
+{
+  "id": 298,
+  "name": "azurill",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/298.png",
+  "species": {
+    "name": "azurill",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/298/"
+  },
+  "capture_rate": 150,
+  "is_baby": true,
+  "is_legendary": false,
+  "is_mythical": false
+}

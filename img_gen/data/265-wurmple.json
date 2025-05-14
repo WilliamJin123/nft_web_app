@@ -1,0 +1,13 @@
+{
+  "id": 265,
+  "name": "wurmple",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/265.png",
+  "species": {
+    "name": "wurmple",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/265/"
+  },
+  "capture_rate": 255,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

@@ -1,0 +1,13 @@
+{
+  "id": 803,
+  "name": "poipole",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/803.png",
+  "species": {
+    "name": "poipole",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/803/"
+  },
+  "capture_rate": 45,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

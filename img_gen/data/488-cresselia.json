@@ -1,0 +1,13 @@
+{
+  "id": 488,
+  "name": "cresselia",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/488.png",
+  "species": {
+    "name": "cresselia",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/488/"
+  },
+  "capture_rate": 3,
+  "is_baby": false,
+  "is_legendary": true,
+  "is_mythical": false
+}

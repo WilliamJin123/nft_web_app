@@ -1,0 +1,13 @@
+{
+  "id": 24,
+  "name": "arbok",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png",
+  "species": {
+    "name": "arbok",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/24/"
+  },
+  "capture_rate": 90,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

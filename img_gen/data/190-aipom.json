@@ -1,0 +1,13 @@
+{
+  "id": 190,
+  "name": "aipom",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/190.png",
+  "species": {
+    "name": "aipom",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/190/"
+  },
+  "capture_rate": 45,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}

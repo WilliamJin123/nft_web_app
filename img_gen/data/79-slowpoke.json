@@ -1,0 +1,13 @@
+{
+  "id": 79,
+  "name": "slowpoke",
+  "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png",
+  "species": {
+    "name": "slowpoke",
+    "url": "https://pokeapi.co/api/v2/pokemon-species/79/"
+  },
+  "capture_rate": 190,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false
+}
