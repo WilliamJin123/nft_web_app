@@ -42,9 +42,9 @@ async function getPokemonSpecies(speciesUrl) {
 
 }
 
-async function getAllPokemon() {
+async function getAllPokemon(limit=500) {
     try {
-        const res = await fetch('https://pokeapi.co/api/v2/pokemon?offset=0&limit=10000');
+        const res = await fetch(`https://pokeapi.co/api/v2/pokemon?offset=0&limit=${limit}`);
         if (!res.ok) throw new Error('Pokémon not found');
         const data = await res.json();
         return data.results.map(pokemon => pokemon.url);
@@ -57,27 +57,38 @@ async function downloadImage(url, filepath) {
     try {
         const imageResponse = await axios.get(url, { responseType: 'arraybuffer' });
         fs.writeFileSync(filepath, imageResponse.data);
-        console.log(`Downloaded image to ${filepath}`);
+        
     } catch (error) {
         console.error(`Error downloading image from ${url}:`, error.message);
     }
 }
 
 
-async function getAllPokemonData() {
+async function getAllPokemonData(limit = 500) {
     try{
-        const urls = await getAllPokemon();
+        const urls = await getAllPokemon(limit);
         const taskQueue = new TaskQueuePC(15);
         const allPokemonData = []
         const tasks = urls.map(url => async () => {
             const pokemonData = await getPokemonData(url);
+            var directoryPath = './data'
+            // if (pokemonData.is_baby) {
+            //     directoryPath += '/baby'
+            // } else if(pokemonData.is_mythical) {
+            //     directoryPath += '/mythical'
+            // }else if(pokemonData.is_legendary) {
+            //     directoryPath +='/legendary'
+            // } else {
+            //     directoryPath += '/normal'
+            // }
+
             if (pokemonData) {
-                fs.writeFileSync(`./data/${pokemonData.id}-${pokemonData.name}.json`, JSON.stringify(pokemonData, null, 2));
+                fs.writeFileSync(`${directoryPath}/${pokemonData.id}.json`, JSON.stringify(pokemonData, null, 2));
                 allPokemonData.push(pokemonData);
             }
             if (pokemonData.sprite) {
-                    const imageName = `${pokemonData.id}-${pokemonData.name}.png`;
-                    const imagePath = path.join('./data', imageName);
+                    const imageName = `${pokemonData.id}.png`;
+                    const imagePath = path.join(directoryPath, imageName);
                     await downloadImage(pokemonData.sprite, imagePath);
             }
         })
@@ -95,7 +106,7 @@ async function getAllPokemonData() {
 
 async function main() {
 
-    const allPokemonData = await getAllPokemonData();
+    const allPokemonData = await getAllPokemonData(500);
 
    
     const jsonData = JSON.stringify(allPokemonData, null, 2); 

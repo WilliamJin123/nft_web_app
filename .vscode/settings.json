@@ -1,0 +1,7 @@
+{
+    "solidity.packageDefaultDependenciesDirectory": "node_modules",
+    "solidity.remappingsWindows": [
+        "@openzeppelin/=web3app/node_modules/@openzeppelin"
+    ],
+
+}
